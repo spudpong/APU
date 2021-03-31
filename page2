@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>APU</title>
+    <link rel="Page_2" link href="Page_2.css" type="text/css">
+    <link rel="Page_2" link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">Page 2</div>
+    </div>
+
+    <div class="main-wrapper">
+      <div class="copy-container">
+        <h1>立命館アジア太平洋大学　（APU)</h1>
+        <h1>大分県別府市にある多文化教育環境での学部教育を提供してきました</h1>
+        <h2>世界92カ国・地域から集まる国際学生が学生の約半数を占めています。</h2>
+        <h3>日本語と英語による日英二言語教育システムを展開しています。</h3>
+      </div>
+
+      <div class="contents">
+        <h3 class="section-title">APUで好きなこと</h3>
+
+        <div class="contents-item">
+          <img src="Bilingual_2.jpg">
+          <p>❶APUのキャンパスは日本語と英語が公用語で、学部講義のおよそ90％は日英二言語で開講しています</p>
+          <p>この国際的な学習環境の中、学生・教員が一体となり、民族・宗教・文化などの違いを越えて共に学び、相互に理解を深めています。</p>
+        </div>
+        <div class="contents-item">
+          <img src="Bilingual_4.jpg">
+          <p>❷APUのキャンパスは緑にかこまれ、別府市街を一望することができる美しい環境にあります。</p>
+          <p>キャンパスからの景色を楽しんだり、リラックスしたりできます</p>
+        </div>
+        <div class="contents-item">
+          <img src="IMG_0074.jpg">
+          <p>❸世界各地から集まってきた教員や専門学者で学べる範囲が広がった</p>
+          <p>自分の興味があることを勉強できる。ゼミナーや研究室のサポートが整っています</p>
+        </div>
+
+        <div class="contents-item">
+          <img src="bg1.jpg">
+        </div>
+
+      </div>
+
+      <div class="footer">
+        <div class="footer-logo">For more references</div>
+        <div class="footer-list">
+          <ul>
+            <li><a href="https://www.thailandtravel.or.jp/ag/rayong/sightseeing/">ラヨーン県観光</a></li>
+            <li><a href="https://www.thailandtravel.or.jp/first_bangkok_trip/">バンコク観光</a></li>
+            <li><a href="https://www.travel.co.jp/guide/matome/560/">タイのおすすめグルメ10選</a></li>
+          </ul>
+        </div>
+      </div>
+      
+  </body>
+</html>
