@@ -1,0 +1,93 @@
+
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+.header { 
+ background-color:#F3B237;            
+ color: #fff;            
+ height: 90px;  
+background-size: cover;
+text-align: center;
+  }          
+
+.header-logo {            
+ float:center;            
+ font-size: 36px;            
+ padding: 20px 40px;   
+ height: 30px;         
+}            
+.header-list li {            
+float: left;            
+padding: 33px 20px;            
+}
+
+.main-wrapper {
+padding: 100px 80px;
+text-align: center;
+background-image: url(https://images.app.goo.gl/Y1c5uVA2zpFyxGqb9);
+background-size: cover;
+text-align: center;
+}
+.copy-container h1 {
+  font-size: 140px;
+  text-align: center;
+}
+.copy-container h2 {
+  font-size: 60px;
+  text-align: center;
+}
+.copy-container h3 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+  float: left;
+}
+.section-title {
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 40px;
+  box-align: center;
+}
+
+.contents-item img {
+    float: left;
+    margin-right: 40px;
+    box-align: center;
+    align-items: center;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+  }
+
+.footer {
+    background-color: #7C2E7A;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
